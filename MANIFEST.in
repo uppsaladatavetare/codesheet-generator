@@ -1,0 +1,5 @@
+include setup.py README.md MANIFEST.in LICENSE
+
+recursive-include sheetgen/templates *
+
+global-exclude *~
